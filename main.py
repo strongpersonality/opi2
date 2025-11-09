@@ -1,1 +1,1 @@
-print('hello opi2')
+print('Redmine Git integration test')
